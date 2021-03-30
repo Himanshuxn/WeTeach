@@ -1,0 +1,122 @@
+.icon
+{
+  color: rgb(185, 185, 185);
+  margin: 0px 10px 0px 15px;
+}
+.C-icon
+{
+  color: aliceblue;
+  margin: 0px 10px 0px 15px;
+  padding-bottom: 5px;
+}
+.C-icon:hover
+{
+  color: yellowgreen;
+}
+body{
+  background-color: rgb(29, 29, 28);
+}
+.img-fluid
+{
+width: 100%;
+height: 575px;
+object-fit: cover;
+object-position: center;
+}
+.about-us
+{
+background-color: aliceblue;
+}
+.about-us{
+padding: 8rem 2rem;
+}
+
+.about-heading{
+text-align: center;
+}
+.bgcolor{
+background:transparent !important;
+transition:0.3s ease;
+}
+.bgcolor.scrolled{
+background:rgba(0, 0, 0, 0.623) !important;
+border-radius: 3px;
+box-shadow: 0 -1px 0 transparent inset, 0 2px 3px rgba(0, 0, 0, .1), 0 4px 8px rgba(0, 0, 0, .3);
+}
+.btn-outline-secondary
+{
+color: aliceblue;
+}
+.btn-outline-secondary:hover
+{
+background-color: lightblue;
+color: black;
+}
+hr{
+border: 1px solid rgb(97, 96, 96);
+}
+h3{
+color: aliceblue;
+}
+
+.course-box p
+{
+color: white;
+color: grey;
+}
+.course{
+padding: 7% 15%;
+
+}
+.faculty
+{
+color: aliceblue;
+text-align: center;
+background-color: aliceblue; 
+}
+.carousel-item
+{
+padding: 7% 15%;
+}
+.faculty-img
+{
+width: 10%;
+border-radius: 100%;
+margin: 20px;
+}
+.course-box
+{
+text-align: center;
+padding: 5%;
+}
+.contact
+{
+background-color: aliceblue;
+}
+.social
+{
+text-align: center;
+}
+
+}
+
+.social-icons .item .fa {
+font-size: 15px;
+font-weight: 500;
+}
+
+.social-icons .facebook {
+color: #425F9C!important
+}
+.social-icons .twitter {
+color: #00ACEE!important
+}
+.social-icons .gmail {
+color: #c00!important
+}
+.social-icons .linkedin {
+color: #0073B2!important
+}
+em{
+text-align: center;
+}

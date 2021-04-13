@@ -1,2 +1,2 @@
 # Introduction
-This is my first frontend project made with bootstrap.
+Getting started with web development through this. A responsive landing page for a website 😏😌
